@@ -4,7 +4,7 @@
 |----|-----------|------------|------------|
 | 1  | Achmad Yusma Yudistira      | 263140707111089 | Yudis86 |
 | 2  | Tio Satria Wijaya Silitonga     | 263140707111097 | Tio Wijaya |
-| 3  | Andra Mauliya Fatimatus Zahra | 2631407071111035 | zrandraa |
+| 3  | Andra Mauliya Fatimatus Zahra | 263140707111103 | zrandraa |
 # Pembagian Tugas
 | Anggota | Tugas Fitur |
 |-----------|------------|
