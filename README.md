@@ -8,7 +8,7 @@
 # Pembagian Tugas
 | Anggota | Tugas Fitur |
 |-----------|------------|
-| Yudis (ketua) | Setup Repo, Menu Utama, & Create |
+| Yudis (Ketua) | Setup Repo, Menu Utama, & Create |
 | Tio | Read & Search |
 | Aul | Update & Delete |
 # Cara Menjalankan Program
