@@ -1,4 +1,4 @@
-# Project UAS Algoritma dan Pemrograman - [Pemesanan Kost Berbasis Website]
+# Project UAS Algoritma dan Pemrograman - [Pemesanan Kost Berbasis Typescript]
 # Daftar Anggota Kelompok
 | No | Nama | NIM | Akun Github |
 |----|-----------|------------|------------|
